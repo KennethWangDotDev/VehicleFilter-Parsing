@@ -22,7 +22,7 @@ As you can see, this would be very tedious and time consuming to do manually. He
 7005	2006+	Dodge	Magnum Base/SXT 
 ```
 
-Turned into this:
+Into this:
 ```
 7005	2006	Dodge	Magnum Base/SXT 
 7005	2007	Dodge	Magnum Base/SXT 
